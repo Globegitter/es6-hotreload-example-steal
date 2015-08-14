@@ -1,0 +1,1 @@
+"\"use strict\";\n\n$(\"body\").append(\"<h1>Hello World</h1>\");\n\nconsole.log('First test!');"
